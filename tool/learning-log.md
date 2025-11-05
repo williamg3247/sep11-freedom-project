@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **phaser**
 
-## Project: **X**
+## Project: **horror game**
 
 ---
 
@@ -13,7 +13,7 @@
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
