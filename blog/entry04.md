@@ -1,7 +1,7 @@
 # Entry 4
-##### X/X/XX
+##### 03/09/26
 
-Text
+phasher
 
 [Previous](entry03.md) | [Next](entry05.md)
 
